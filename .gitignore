@@ -1,0 +1,11 @@
+#ignore items in data
+data/
+
+### Ignore PyCache
+__pycache__/
+*.pyc.*
+*.pyc
+
+### Ignore IDE Files
+.idea/
+.vs-code/
