@@ -9,3 +9,6 @@ __pycache__/
 ### Ignore IDE Files
 .idea/
 .vs-code/
+
+### Ignore ipynb checkpoints
+.ipynb_checkpoints/
